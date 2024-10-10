@@ -1,5 +1,5 @@
 {
-  "name": "isjsonwebtoken",
+  "name": "isvalidjsonwebtoken",
   "version": "8.5.1",
   "description": "JSON Web Token implementation (symmetric and asymmetric) (malformed for ctf)",
   "main": "index.js",
