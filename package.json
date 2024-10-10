@@ -1,7 +1,7 @@
 {
-  "name": "jsonwebtoken",
+  "name": "isjsonwebtoken",
   "version": "8.5.1",
-  "description": "JSON Web Token implementation (symmetric and asymmetric)",
+  "description": "JSON Web Token implementation (symmetric and asymmetric) (malformed for ctf)",
   "main": "index.js",
   "nyc": {
     "check-coverage": true,
@@ -30,7 +30,7 @@
   "keywords": [
     "jwt"
   ],
-  "author": "auth0",
+  "author": "auth0 (modified by YeonjunLee 'yeonfish6040@gmail.com')",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/auth0/node-jsonwebtoken/issues"
